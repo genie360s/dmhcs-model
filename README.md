@@ -31,4 +31,5 @@ This project was developed nunder Linux Os.
 
 ### Further information read the docs.
 <hr>
+
 [Streamlit Documentation](https://streamlit.io/)
